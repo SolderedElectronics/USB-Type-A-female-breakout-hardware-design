@@ -58,3 +58,41 @@ Setting description
 Adding default .gitignore
 Syncing /volume1/SOLDERED products/Soldered products/Adapteri-green/3.5mm Jack breakout to 3.5mm-Jack-breakout-hardware-design
 Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Adapteri-green/USB Type A female breakout/.git/
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   log.txt
+
+[main 7d465cf] Updating open source files.
+ 1 file changed, 59 insertions(+)
+https://github.com/SolderedElectronics/USB-Type-A-female-breakout-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Adapteri-green/proto bit/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Adapteri-green/3.5mm Jack breakout/OUTPUTS/V1.0.0: all files are present, commiting...
+3.5mm-Jack-breakout-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Adapteri-green/3.5mm Jack breakout to 3.5mm-Jack-breakout-hardware-design
+https://github.com/SolderedElectronics/USB-Type-A-female-breakout-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Adapteri-green/proto bit/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Adapteri-green/3.5mm Jack breakout/OUTPUTS/V1.0.0: all files are present, commiting...
+3.5mm-Jack-breakout-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Adapteri-green/3.5mm Jack breakout to 3.5mm-Jack-breakout-hardware-design
+https://github.com/SolderedElectronics/USB-Type-A-female-breakout-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Adapteri-green/proto bit/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Adapteri-green/3.5mm Jack breakout/OUTPUTS/V1.0.0: all files are present, commiting...
+3.5mm-Jack-breakout-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Adapteri-green/3.5mm Jack breakout to 3.5mm-Jack-breakout-hardware-design
+Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Adapteri-green/USB Type A female breakout/.git/
